@@ -1,2 +1,2 @@
-no-code: *.md
-documentation: *.md
+no-code: ['*.md']
+documentation: ['*.md']
